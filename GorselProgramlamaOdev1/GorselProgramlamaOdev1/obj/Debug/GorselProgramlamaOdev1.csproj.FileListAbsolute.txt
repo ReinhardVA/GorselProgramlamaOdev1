@@ -1,0 +1,10 @@
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\bin\Debug\GorselProgramlamaOdev1.exe.config
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\bin\Debug\GorselProgramlamaOdev1.exe
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\bin\Debug\GorselProgramlamaOdev1.pdb
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.csproj.AssemblyReference.cache
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.Form1.resources
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.Properties.Resources.resources
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.csproj.GenerateResource.cache
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.csproj.CoreCompileInputs.cache
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.exe
+C:\Users\EREN\OneDrive\Masaüstü\C#\LeetCodeExercises\GorselProgramlamaOdev1\GorselProgramlamaOdev1\obj\Debug\GorselProgramlamaOdev1.pdb
